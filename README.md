@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-I'm SoraCént and working as developer. I'm working in a company for Typo3 Websites.
+I'm Certaxson and working as developer. I'm working in a company for Typo3 Websites.
 In my Freetime I'm creating my Own Websites in various languages (JS, Jquery, ReactJS, NodeJS, PHP, ... etc).
 
-- 🔭 I’m currently working on Websites like [SoraCent.de](https://soracent.de/) or [Slothgaming.de](https://slothgaming.de) and various other Webpages and Projects.
-- 🌱 I’m currently learning MVC Systems to improve my Webpages ;)
+- 🔭 I’m currently working on Websites like [certaxson.de](https://certaxson.de/) and various other Webpages and Projects.
+- 🌱 I’m currently learning MVC Systems and PHP OOP to improve my Webpages ;)
 - 💬 Ask me about Websites and other IT stuff like Linux configs and more.
-- 📫 How to reach me: [My Socialmedia links](https://soracent.de/sozialemedien)
 - 😄 Pronouns: He/His
 
 ## Statistics
-[![SoraCént's GitHub stats](https://github-readme-stats.vercel.app/api?username=soracent&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Certaxson's GitHub stats](https://github-readme-stats.vercel.app/api?username=soracent&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soracent&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Some funny Badges
