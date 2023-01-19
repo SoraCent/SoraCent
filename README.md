@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Certaxson and working as developer. I'm working in a company for Typo3 Websites.
+I'm Certaxson and working as developer.
 In my Freetime I'm creating my Own Websites in various languages (JS, Jquery, ReactJS, NodeJS, PHP, ... etc).
 
 - 🔭 I’m currently working on Websites like [certaxson.de](https://certaxson.de/) and various other Webpages and Projects.
