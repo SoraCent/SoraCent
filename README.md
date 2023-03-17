@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Certaxson and working as developer.
-In my Freetime I'm creating my Own Websites in various languages (JS, Jquery, ReactJS, NodeJS, PHP, ... etc).
+My name is Certaxson, and I work as a developer.
+I build my own websites in my own time using a variety of programming languages, like: JS, Jquery, ReactJS, NodeJS, PHP, etc.
 
-- 🔭 I’m currently working on Websites like [certaxson.de](https://certaxson.de/) and various other Webpages and Projects.
-- 🌱 I’m currently learning MVC Systems and PHP OOP to improve my Webpages ;)
-- 💬 Ask me about Websites and other IT stuff like Linux configs and more.
+- 🔭 Currently, I'm working on many projects and websites, including [certaxson.de](https://certaxson.de/).
+- 🌱 In order to improve my websites, I'm currently learning PHP OOP and MVC Systems.
+- 💬 Questions about websites, Linux installations, and other IT-related subjects are welcome.
 - 😄 Pronouns: He/His
 
 ## Statistics
